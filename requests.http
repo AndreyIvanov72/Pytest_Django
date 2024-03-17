@@ -1,0 +1,8 @@
+#запрос всех объявление
+GET http://localhost:8000/messages/
+
+###
+
+#создание сообщения
+GET http://localhost:8000/courses/
+Content-Type: application/json
